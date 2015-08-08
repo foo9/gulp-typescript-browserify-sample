@@ -1,4 +1,4 @@
-# gulp-typescript-with-browserify-sample
+# gulp-typescript-browserify-sample
 
 ```
 $ npm install
